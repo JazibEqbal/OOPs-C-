@@ -53,5 +53,14 @@ public:
 
 int main()
 {
+    A a;
+    B b;
+    C c;
+    D d;
+    E e;
+    F f;
+    b.displayA();
+    f.displayF();
+    f.displayC();
     return 0;
 }
