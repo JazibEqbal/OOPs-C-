@@ -55,7 +55,3 @@ int main()
 {
     return 0;
 }
-
-// hoti pe thi muskaan
-// hatton me thi kamyabi
-// ab hasti annkhon me tuute hai sapne
